@@ -1,0 +1,17 @@
+body{
+	background: #fff;
+}
+
+.menu{
+	border: 1px solid #ddd;
+	background: #d82e48;
+	list-style:none;
+}
+
+footer{
+	background: #645b63;
+}
+
+.undergallery{
+	background: #2a8782;
+}
